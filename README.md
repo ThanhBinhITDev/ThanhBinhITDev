@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=280&section=header&text=LÊ%20THANH%20BÌNH&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&font=Orbitron" width="100%" />
-
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YnRwNmt6ZHd5NmN3YnF3YmZidmZidmZidmZidmZpYmZpYmZpJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Galaxy GIF">
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=LÊ%20THANH%20BÌNH&fontSize=80&animation=fadeIn&fontColor=00D2FF&font=Orbitron" width="100%" />
 
   ### 🌌 **Full-stack Developer | Musical Alchemist | Tech Voyager**
 
