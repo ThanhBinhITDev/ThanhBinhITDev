@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=LÊ%20THANH%20BÌNH&fontSize=80&animation=fadeIn&fontColor=00D2FF&font=Orbitron" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000,00D2FF&height=250&section=header&text=LÊ%20THANH%20BÌNH&fontSize=90&animation=fadeIn&fontColor=00D2FF&font=Orbitron" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=const+Dev+%3D+new+Developer('ThanhBinhIT');;Dev.skills.push('Quality','Speed','Innovation');;Dev.status+%3D+'Deploying+Future...';" alt="Terminal Text" />
 
   ### 🌌 **Full-stack Developer | Musical Alchemist | Tech Voyager**
 
