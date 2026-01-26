@@ -78,9 +78,6 @@
 ---
 
 ### 🎮 **GALAXY SNAKE**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/thanhbinhit/thanhbinhit/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
