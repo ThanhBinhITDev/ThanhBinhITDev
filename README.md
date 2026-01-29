@@ -18,13 +18,13 @@
 
 ---
 
-### � **QUỸ ĐẠO KHÁM PHÁ (ABOUT ME)**
+## ABOUT ME
 
-- 🔭 Tôi hiện đang làm việc tại **ThanhBinhIT Solutions**
-- 🌱 Tôi đang tìm hiểu thêm về **AI & Machine Learning** để tối ưu hóa âm nhạc
-- ⚡ Fun fact: Tôi có thể thức trắng đêm chỉ để tìm ra một "nốt nhạc" hoặc một "bug" cứng đầu
-- 💬 Hãy hỏi tôi về: **Full-stack development, Beat making, hoặc Vũ trụ**
-- 📫 Liên hệ với tôi qua: **thanhbinh.dev@gmail.com**
+- 💻 Full-stack Developer @ **ThanhBinhIT Solutions**
+- 🤖 Interested in **AI & Machine Learning**, especially in music optimization
+- 🌙 Staying up late to fix bugs or find the perfect note is normal
+- 🛠️ Ask me about: **Full-stack dev, Beat making, Tech & Universe**
+- 📩 Contact: **thanhbinh.dev@gmail.com**
 
 ---
 
