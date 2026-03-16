@@ -1,20 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000,00D2FF&height=250&section=header&text=LÊ%20THANH%20BÌNH&fontSize=90&animation=fadeIn&fontColor=00D2FF&font=Orbitron" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&weight=800&size=40&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=LÊ+THANH+BÌNH" alt="Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%7C+AI%2FML+Enthusiast" alt="Title" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=const+Dev+%3D+new+Developer('ThanhBinhIT');;Dev.skills.push('Quality','Speed','Innovation');;Dev.status+%3D+'Deploying+Future...';" alt="Terminal Text" />
+  <br/><br/>
 
-  ### 🌌 **Full-stack Developer | Musical Alchemist | Tech Voyager**
-
-  [![Website](https://img.shields.io/badge/Website-thanhbinhit.com-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thanhbinhit.com)
+  [![Website](https://img.shields.io/badge/Website-thanhbinhit.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thanhbinhit.com)
   [![Facebook](https://img.shields.io/badge/Facebook-Lê_Thanh_Bình-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thanhbinhit.kgi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-FF4E00?style=for-the-badge&logo=react&logoColor=white)](https://thanhbinhit.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://thanhbinhit.com)
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Xây+dựng+tương+lai+từ+những+dòng+code;Biến+âm+thanh+thành+nghệ+thuật;Đang+theo+học+tại+Cao+đẳng+Kiên+Giang;Đam+mê+chinh+phục+những+thử+thách+mới" alt="Typing SVG" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,7C3AED,06B6D4&height=100&section=header&text=&fontSize=1&animation=fadeIn" width="100%" />
 
 ---
 
