@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&weight=800&size=40&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=LÊ+THANH+BÌNH" alt="Name" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%7C+AI%2FML+Enthusiast" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@800&size=60&pause=0&color=gradient&center=true&vCenter=true&width=700&lines=LÊ+THANH+BÌNH" alt="Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=0&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%7C+AI%2FML+Enthusiast" alt="Title" />
 
   <br/><br/>
 
@@ -13,8 +13,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,7C3AED,06B6D4&height=100&section=header&text=&fontSize=1&animation=fadeIn" width="100%" />
-
----
 
 ## ABOUT ME
 
