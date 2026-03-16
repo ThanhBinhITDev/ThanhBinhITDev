@@ -18,9 +18,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,7C3AED,06B6D4&height=10&section=header&text=&fontSize=1" width="100%" />
 </div>
 
-### 😄 Random Joke
+### 🎧 Spotify
 
-![Joke](https://readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%237C3AED&borderColor=%237C3AED)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316bk6y5gyddro2go3pbkgrlum3y&cover_image=true&theme=novatorem&height=200)](https://open.spotify.com/user/316bk6y5gyddro2go3pbkgrlum3y)
 
 ## ABOUT ME
 
