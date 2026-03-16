@@ -15,7 +15,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,7C3AED,06B6D4&height=100&section=header&text=&fontSize=1&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=&fontSize=1" width="100%" />
+</div>
 
 ## ABOUT ME
 
