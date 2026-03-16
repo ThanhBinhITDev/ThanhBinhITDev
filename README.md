@@ -20,7 +20,7 @@
 
 ### 🎧 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316bk6y5gyddro2go3pbkgrlum3y&cover_image=true&theme=radical)](https://open.spotify.com/user/316bk6y5gyddro2go3pbkgrlum3y)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316bk6y5gyddro2go3pbkgrlum3y&cover_image=true&theme=default)](https://open.spotify.com/user/316bk6y5gyddro2go3pbkgrlum3y)
 
 ## ABOUT ME
 
