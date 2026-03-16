@@ -46,19 +46,7 @@
 
 ---
 
-### 🎵 **THE SONIC UNIVERSE**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FL_Studio-FF4E00?style=for-the-badge&logo=fl-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music_Production-00D2FF?style=for-the-badge&logo=music&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=tokyonight" alt="Now Playing" />
-</p>
-
----
+<div align="center">
 
 <div align="center">
 
