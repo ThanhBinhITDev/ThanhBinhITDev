@@ -15,8 +15,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=&fontSize=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,7C3AED,06B6D4&height=10&section=header&text=&fontSize=1" width="100%" />
 </div>
+
+### 📊 Coding Activity
+
+[![Wakatime](https://wakatime.com/badge/user/ThanhBinhITDev.svg)](https://wakatime.com/@ThanhBinhITDev)
 
 ## ABOUT ME
 
