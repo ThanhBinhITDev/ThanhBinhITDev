@@ -18,9 +18,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117,7C3AED,06B6D4&height=10&section=header&text=&fontSize=1" width="100%" />
 </div>
 
-### 🌐 Matrix Rain
-
-![Matrix](https://raw.githubusercontent.com/AbhinavRajesh/AbhinavRajesh/output/github-contribution-grid-snake.svg)
+---
 
 ## ABOUT ME
 
