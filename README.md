@@ -20,11 +20,11 @@
 
 ## ABOUT ME
 
-- 💻 Full-stack Developer @ **ThanhBinhIT Solutions**
-- 🤖 Interested in **AI & Machine Learning**, especially in music optimization
-- 🌙 Staying up late to fix bugs or find the perfect note is normal
-- 🛠️ Ask me about: **Full-stack dev, Beat making, Tech & Universe**
-- 📩 Contact: **thanhbinh.dev@gmail.com**
+- 💻 Full-stack Developer tại **ThanhBinhIT Solutions** - Xây dựng các giải pháp công nghệ toàn diện
+- 🤖 Nghiên cứu và ứng dụng **AI & Machine Learning** trong tối ưu hóa âm thanh
+- 🌑 Đam mê giải quyết bài toán phức tạp và xây dựng hệ thống scalable
+- 🛠️ Chuyên môn: **Full-stack Development, Audio Processing, System Architecture**
+- 📩 Liên hệ: **thanhbinh.dev@gmail.com**
 
 ---
 
@@ -47,7 +47,6 @@
 ---
 
 ### 🎵 **THE SONIC UNIVERSE**
-*Khi màn đêm buông xuống, vũ trụ của mình tràn ngập những sóng âm và giai điệu.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/FL_Studio-FF4E00?style=for-the-badge&logo=fl-studio&logoColor=white" />
@@ -61,25 +60,7 @@
 
 ---
 
-### 📊 **COSMIC TELEMETRY**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhbinhit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00D2FF&icon_color=00D2FF" height="190em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhbinhit&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" height="190em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhbinhit&theme=tokyonight&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=00D2FF" width="100%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhbinhit&theme=tokyonight&area=true&hide_border=true&color=00D2FF" width="100%" />
-</p>
-
----
-
-### 🎮 **GALAXY SNAKE**
-
----
 
 <div align="center">
   <b>🌓 Chúc bạn một ngày du hành vũ trụ tốt lành!</b><br/>
