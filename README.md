@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=0&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%7C+AI%2FML+Enthusiast" alt="Title" />
   <br/><br/>
 
-  <br/><br/>
-
   [![Website](https://img.shields.io/badge/Website-thanhbinhit.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thanhbinhit.com)
   [![Facebook](https://img.shields.io/badge/Facebook-Lê_Thanh_Bình-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thanhbinhit.kgi)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://thanhbinhit.com)
@@ -22,10 +20,11 @@
 
 ## ABOUT ME
 
-- 💻 Full-stack Developer tại **ThanhBinhIT Solutions** - Xây dựng các giải pháp công nghệ toàn diện
-- 🤖 Nghiên cứu và ứng dụng **AI & Machine Learning** trong tối ưu hóa âm thanh
-- 🌑 Đam mê giải quyết bài toán phức tạp và xây dựng hệ thống scalable
-- 🛠️ Chuyên môn: **Full-stack Development, Audio Processing, System Architecture**
+- 💻 **Full-stack Developer** tại **ThanhBinhIT Solutions** — xây dựng các giải pháp công nghệ toàn diện từ ý tưởng đến triển khai
+- 🤖 Nghiên cứu và ứng dụng **AI & Machine Learning** vào các bài toán thực tế
+- 🌑 Đam mê giải quyết bài toán phức tạp và thiết kế hệ thống **scalable, hiệu năng cao**
+- 🛠️ Chuyên môn: **Full-stack Development, System Architecture, Cloud & DevOps**
+- 🌱 Không ngừng học hỏi công nghệ mới và chia sẻ kiến thức với cộng đồng
 - 📩 Liên hệ: **thanhbinh.dev@gmail.com**
 
 ---
@@ -49,12 +48,8 @@
 ---
 
 <div align="center">
-
-<div align="center">
-
-<div align="center">
   <b>🌓 Chúc bạn một ngày du hành vũ trụ tốt lành!</b><br/>
-  <i>"Code is poetry, Music is life."</i>
+  <i>"Code is poetry, logic is art."</i>
 </div>
 
 <br/>
