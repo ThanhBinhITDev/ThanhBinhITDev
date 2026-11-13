@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,55:6366F1,100:8B5CF6&height=220&section=header&text=L%C3%8A%20THANH%20B%C3%8CNH&fontSize=52&fontColor=EDECF5&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Product%20Designer%20%C2%B7%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:22D3EE,100:38BDF8&height=220&section=header&text=L%C3%8A%20THANH%20B%C3%8CNH&fontSize=52&fontColor=0F172A&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Product%20Designer%20%C2%B7%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Building+software+that+ships.;Engineering+%2B+Design+%2B+Infrastructure.;Full-stack+Developer+%7C+AI%2FML;Code+is+poetry%2C+logic+is+art." alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Building+software+that+ships.;Engineering+%2B+Design+%2B+Infrastructure.;Full-stack+Developer+%7C+AI%2FML;Code+is+poetry%2C+logic+is+art." alt="typing" />
   <br/><br/>
 
-  [![Website](https://img.shields.io/badge/thanhbinhit.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thanhbinhit.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-6366F1?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thanhbinhit.kgi)
-  [![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhbinh.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-15151F?style=for-the-badge&logo=github&logoColor=EDECF5)](https://github.com/thanhbinhit)
+  [![Website](https://img.shields.io/badge/thanhbinhit.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thanhbinhit.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-0EA5E9?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thanhbinhit.kgi)
+  [![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhbinh.dev@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhbinhit)
 
   <br/>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=thanhbinhit&style=flat-square&color=6366F1&label=PROFILE+VIEWS)
-  ![Focus](https://img.shields.io/badge/FOCUS-Full--stack%20%26%20Systems-15151F?style=flat-square&labelColor=6366F1)
-  ![Status](https://img.shields.io/badge/STATUS-Open%20to%20collaborate-15151F?style=flat-square&labelColor=8B5CF6)
+  ![Profile Views](https://komarev.com/ghpvc/?username=thanhbinhit&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)
+  ![Focus](https://img.shields.io/badge/FOCUS-Full--stack%20%26%20Systems-F0FDFA?style=flat-square&labelColor=14B8A6&logoColor=white)
+  ![Status](https://img.shields.io/badge/STATUS-Open%20to%20collaborate-F0FDFA?style=flat-square&labelColor=10B981)
 </div>
 
 ---
@@ -34,10 +34,10 @@ Kỹ sư phần mềm kết hợp **phát triển sản phẩm**, **thiết kế
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,figma&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,py,django,java,spring&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,linux,vscode,ps,ai,au&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass,figma&theme=light" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,py,django,java,spring&theme=light" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase&theme=light" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,linux,vscode,ps,ai,au&theme=light" />
 </div>
 
 ---
@@ -65,12 +65,12 @@ Kỹ sư phần mềm kết hợp **phát triển sản phẩm**, **thiết kế
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhbinhit&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&icon_color=C4B5FD&text_color=EDECF5&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhbinhit&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&text_color=EDECF5&langs_count=8" alt="top-langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhbinhit&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0D9488&icon_color=0EA5E9&text_color=0F172A&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhbinhit&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D9488&text_color=0F172A&langs_count=8" alt="top-langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhbinhit&hide_border=true&background=0A0A0F&stroke=6366F1&ring=8B5CF6&fire=C4B5FD&currStreakLabel=8B5CF6&sideLabels=9A9AB0&dates=6B6B80&currStreakNum=EDECF5&sideNums=EDECF5" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhbinhit&hide_border=true&background=FFFFFF&stroke=22D3EE&ring=10B981&fire=F97316&currStreakLabel=0D9488&sideLabels=475569&dates=94A3B8&currStreakNum=0F172A&sideNums=0F172A" alt="streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhbinhit&bg_color=0A0A0F&color=8B5CF6&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="100%" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhbinhit&bg_color=FFFFFF&color=0EA5E9&line=14B8A6&point=10B981&area=true&hide_border=true" width="100%" alt="activity" />
 </div>
 
 ---
@@ -78,5 +78,5 @@ Kỹ sư phần mềm kết hợp **phát triển sản phẩm**, **thiết kế
 <div align="center">
   <i>"Build it clean. Ship it right."</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Built_with-Antigravity_AI-15151F?style=flat-square&labelColor=6366F1" />
+  <img src="https://img.shields.io/badge/Built_with-Antigravity_AI-F0FDFA?style=flat-square&labelColor=0EA5E9" />
 </div>
